@@ -1,0 +1,27 @@
+{
+  "name": "world-map-country-shapes",
+  "version": "1.0.0",
+  "description": "BYO World map country svg shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirlisko/world-map-country-shapes.git"
+  },
+  "keywords": [
+    "world",
+    "map",
+    "svg",
+    "countries",
+    "shapes",
+    "path"
+  ],
+  "author": "Luca Lischetti <luca@sirlisko.com> (https://sirlisko.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sirlisko/world-map-country-shapes/issues"
+  },
+  "homepage": "https://github.com/sirlisko/world-map-country-shapes#readme"
+}
